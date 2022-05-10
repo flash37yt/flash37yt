@@ -11,7 +11,7 @@ You can find coding tutorials on my [Youtube Channel](https://www.youtube.com/ch
 - 📫 How to reach me ...
 --->
 
-If you like to support me, you can donate a very small amount(under 3$) here 🤗:\
+If you like to support me, you can donate a very small amount here 🤗:\
 **WARNING** : Send coins only to their respective address. Sending to other address may lead to permanent loss of coins.\
 Below mentioned bitcoin address is a **Bech32** address. Some payment gateways *will not accept Bech32*. In those case, please don't send any coins.
 
